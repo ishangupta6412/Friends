@@ -1,0 +1,52 @@
+*{
+    margin: 20px;
+    padding: 0px;
+}
+
+
+
+
+.card{
+    align-self: center;
+    width: 25%;
+    
+    background-color: white;
+    border-radius: 10px;
+    margin: 30px;
+    box-shadow: 5px 5px 10px 5px black;
+    overflow-wrap: break-word;
+}
+
+.image{
+    width: 70%;
+    text-align: center;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    
+}
+
+.title{
+    text-align: center;
+    font-family: "Audiowide", sans-serif;
+}
+
+.description{
+    text-align: center;
+    padding: 5px;
+}
+
+button{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: antiquewhite;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 10px;
+    align-self: center;
+}
+button:hover{
+    background-color: black;
+    color: white;
+    transition: .5s;
+    cursor: pointer;
+}
