@@ -91,7 +91,7 @@ h1 span:nth-child(7){
     align-items: center;
     margin: 40px;
     background: #060c21;
-    transition: 0.5s; 
+    transition: 0.5s;
 }
 
 .box:hover{
@@ -245,4 +245,11 @@ h1 span:nth-child(7){
     color: #fff;
     font-weight: 200;
     letter-spacing: 2px;
+}
+
+
+img{
+  height: 14rem;
+  width: 12rem;
+  text-align: center;
 }
